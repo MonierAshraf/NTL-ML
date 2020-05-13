@@ -22,6 +22,13 @@ https://review.udacity.com/#!/reviews/2010553
 https://review.udacity.com/#!/reviews/2009514
 
 
-
+          Project	                                             Status	                    Date           	Attempts
+1 – Predicting Boston Housing Pricesmore information	         Completed                	Jul 5, 2019       	1
+2 – Finding Donors for CharityMLmore information	             Completed	                Aug 11, 2019      	2
+3 – Dog Breed Classifiermore information	                     Completed                	Sep 6, 2019    	  	2
+4 – Creating Customer Segmentsmore information	               Completed	                Sep 29, 2019	    	2
+5 – Teach a Quadcopter How to Flymore information	             Completed              		Oct 13, 2019	    	1
+6 – Capstone Proposalmore information	                         Completed                	Oct 23, 2019	     	3
+7 – Capstone Projectmore information	                         Completed	                Oct 22, 2019	     	2
 
 
